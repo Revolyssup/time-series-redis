@@ -1,0 +1,15 @@
+{
+  "name": "time-series-redis",
+  "version": "1.0.0",
+  "description": "## This implementation can be used anywhere ,when a count is to be stored for given timestamps ##  at different levels of granularity.",
+  "main": "main.js",
+  "dependencies": {
+    "redis": "^3.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish Tiwari",
+  "license": "ISC"
+}
